@@ -2,6 +2,8 @@
 
 A professional README generator for new projects.
 
+Link to walk-thru video: https://drive.google.com/file/d/1V_wtVa3a25mE2wOstnTWjPZVyqhKlBUC/view
+
 ## Navigation
 - [User-Story](#user-story)
 - [Description](#description)
